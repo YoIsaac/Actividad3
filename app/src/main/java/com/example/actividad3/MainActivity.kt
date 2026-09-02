@@ -343,6 +343,7 @@ class MainEventViewModel : ViewModel() {
         )
     }
 
+    //(Provado funciona)
     // Metodo para agregar un nuevo evento a la lista
     fun createAndAddEvent(
         title: String,
