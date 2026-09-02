@@ -1478,3 +1478,4 @@ class MainActivity : ComponentActivity() {
 
 // (Recordatorio revisar Logica de estado y validaciones)
 // (Recordatorio Tarjeta animada con animateContentSize)
+// (Actividad 3 - App de Registro de Eventos.¿Revisar Donde iva esto ?)
