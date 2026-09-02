@@ -225,6 +225,7 @@ private val CustomLightColorScheme = lightColorScheme(
     onError = Color(0xFFFFFFFF)
 )
 
+//(recordatorio agregar colores)
 // Paleta de colores para el modo oscuro personalizada
 private val CustomDarkColorScheme = darkColorScheme(
     primary = Color(0xD0BCFF),
