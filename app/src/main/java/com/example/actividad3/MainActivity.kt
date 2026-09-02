@@ -1477,3 +1477,4 @@ class MainActivity : ComponentActivity() {
 }
 
 // (Recordatorio revisar Logica de estado y validaciones)
+// (Recordatorio Tarjeta animada con animateContentSize)
